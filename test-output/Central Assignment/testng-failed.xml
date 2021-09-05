@@ -10,8 +10,13 @@
       <class name="com.oleti.tests.CheckOutCart">
         <methods>
           <include name="classLevelSetup"/>
+          <include name="filterProductWithScreenSize4455"/>
+          <include name="addProduct4455ScreenSizeToCart"/>
           <include name="teardown"/>
-          <include name="searchProduct" invocation-numbers="0"/>
+          <include name="searchProduct"/>
+          <include name="filterProductWithScreenSize3243"/>
+          <include name="addProduct3243inchitemToCart"/>
+          <include name="verifyItemsInCart"/>
           <include name="methodLevelSetup"/>
         </methods>
       </class> <!-- com.oleti.tests.CheckOutCart -->

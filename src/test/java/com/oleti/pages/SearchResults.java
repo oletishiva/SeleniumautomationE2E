@@ -1,6 +1,7 @@
 package com.oleti.pages;
 
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.List;
 
 import org.openqa.selenium.By;
@@ -17,20 +18,20 @@ public class SearchResults extends BasePage {
 	String categoryName;
 	String tvScreenSize;
 	WebDriver driver;
+	
 
 	By filterCategeory1 = By
 			.xpath("//*[ @title='ช่วงขนาดหน้าจอ (นิ้ว)'  and contains(@class,'CardCollaspe__CardView-')]");
 	By filterCategeory = By
 			.xpath("//*[ @title='" + categoryName + "'  and contains(@class,'CardCollaspe__CardView-')] ");
 	By filterCategeoryIntoView = By.xpath("//*[ @title='ช่วงขนาดหน้าจอ (นิ้ว)']");
-	By loadingIndicator=By.xpath("//div[@class='LoadingScreen__Relative-buBEEi bfqcdg']");
-	By itemsAvailableToAddToCart=By.xpath("//div[@class=\"ProductGridItem__Label-iQRkAY jLwkyu\"]/parent::div/parent::div/parent::div");
-	
-	public SearchResults(WebDriver driver)
-	{
-		this.driver=driver;
+	By loadingIndicator = By.xpath("//div[@class='LoadingScreen__Relative-buBEEi bfqcdg']");
+	By itemsAvailableToAddToCart = By
+			.xpath("//div[@class=\"ProductGridItem__Label-iQRkAY jLwkyu\"]/parent::div/parent::div/parent::div");
+
+	public SearchResults(WebDriver driver) {
+		this.driver = driver;
 	}
-	
 
 	public void scrollIntoViewPort() throws InterruptedException {
 		// TODO Auto-generated method stub
@@ -46,7 +47,7 @@ public class SearchResults extends BasePage {
 		By screenSizeGroup = By.xpath("//*[text()='" + screensize
 				+ "']/ancestor::div[@class=\"Row__Wrapper-v6uxgu-0 kSLyDU\"][1]//*[@data-testid='btn-checkbox']");
 		Log.info("Tests is starting!");
-		Log.info("Tests is starting!"+screenSizeGroup);
+		Log.info("Tests is starting!" + screenSizeGroup);
 		driver.findElement(screenSizeGroup).click();
 		CommonWaitActons.waitUntilElementNotVisible(driver, loadingIndicator);
 		/*
@@ -56,16 +57,16 @@ public class SearchResults extends BasePage {
 		 * Log.info("Loading Screen dismissed:"+wait); else
 		 * Log.info("Loading Screen not dismissed:"+wait);
 		 */
-			
-			
-	}
-	
-	public void addFirstAvailableItemToCart()
-	{
-		String firstItem=driver.findElements(itemsAvailableToAddToCart).get(0).getText();
-		driver.findElements(itemsAvailableToAddToCart).get(0).click();
-		Log.info("FirstItem"+firstItem);
+
 	}
 
-	
+	public String addFirstAvailableItemToCart() {
+
+		String productId = driver.findElements(itemsAvailableToAddToCart).get(0).getAttribute("data-productid");
+		Log.info("ArrayList:" + productId);
+		driver.findElements(itemsAvailableToAddToCart).get(0).click();
+		return productId;
+
+	}
+
 }

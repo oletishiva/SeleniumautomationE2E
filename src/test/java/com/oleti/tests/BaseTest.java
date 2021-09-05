@@ -30,6 +30,6 @@ public class BaseTest extends BasePage{
     @AfterClass
     public void teardown() {
         Log.info("Tests are ending!");
-     //   driver.quit();
+       driver.quit();
     }
 }

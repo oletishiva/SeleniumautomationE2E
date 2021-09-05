@@ -6,13 +6,14 @@
       <class name="com.oleti.tests.CheckOutCart">
         <methods>
           <include name="classLevelSetup"/>
-          <include name="filterProduct"/>
-          <include name="addProduct43243inchitemToCart" invocation-numbers="0"/>
+          <include name="filterProductWithScreenSize4455"/>
+          <include name="addProduct4455ScreenSizeToCart"/>
           <include name="teardown"/>
           <include name="searchProduct"/>
-          <include name="filterProduct32_43"/>
+          <include name="filterProductWithScreenSize3243"/>
+          <include name="addProduct3243inchitemToCart"/>
+          <include name="verifyItemsInCart"/>
           <include name="methodLevelSetup"/>
-          <include name="addProduct4455inchitemToCart"/>
         </methods>
       </class> <!-- com.oleti.tests.CheckOutCart -->
     </classes>
