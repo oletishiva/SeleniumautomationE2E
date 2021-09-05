@@ -1,0 +1,221 @@
+[INFO ] 2021-09-05 11:33:09.584 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 11:33:09.590 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 11:33:35.575 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 11:33:35.576 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 11:33:36.741 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 11:35:28.907 [main] Log - I am in onStart method AddToCart
+[INFO ] 2021-09-05 11:35:28.942 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 11:35:28.947 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 11:35:38.229 [main] Log - searchProduct test is starting.
+[INFO ] 2021-09-05 11:35:51.072 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 11:35:51.073 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 11:35:52.563 [main] Log - searchProduct test is skipped.
+[INFO ] 2021-09-05 11:35:52.567 [main] Log - searchProduct test is starting.
+[INFO ] 2021-09-05 11:35:55.139 [main] Log - searchProduct test is failed.
+[INFO ] 2021-09-05 11:35:55.789 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 11:35:56.441 [main] Log - I am in onFinish method AddToCart
+[INFO ] 2021-09-05 11:37:40.449 [main] Log - I am in onStart method AddToCart
+[INFO ] 2021-09-05 11:37:40.482 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 11:37:40.483 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 11:37:49.572 [main] Log - searchProduct test is starting.
+[INFO ] 2021-09-05 11:38:02.062 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 11:38:02.063 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 11:38:03.165 [main] Log - searchProduct test is failed.
+[INFO ] 2021-09-05 11:38:03.660 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 11:38:04.574 [main] Log - I am in onFinish method AddToCart
+[INFO ] 2021-09-05 11:59:01.487 [main] Log - I am in onStart method AddToCart
+[INFO ] 2021-09-05 11:59:01.523 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 11:59:01.523 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 11:59:10.012 [main] Log - searchProduct test is starting.
+[INFO ] 2021-09-05 11:59:22.740 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 11:59:22.740 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 11:59:30.578 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 11:59:30.585 [main] Log - searchProduct test is succeed.
+[INFO ] 2021-09-05 11:59:30.615 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 11:59:31.511 [main] Log - I am in onFinish method AddToCart
+[INFO ] 2021-09-05 13:20:51.167 [main] Log - I am in onStart method AddToCart
+[INFO ] 2021-09-05 13:20:51.290 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 13:20:51.290 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 13:21:09.167 [main] Log - searchProduct test is starting.
+[INFO ] 2021-09-05 13:21:22.816 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 13:21:22.817 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 13:21:28.841 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 13:21:28.847 [main] Log - searchProduct test is succeed.
+[INFO ] 2021-09-05 13:21:28.858 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 13:21:29.002 [main] Log - I am in onFinish method AddToCart
+[INFO ] 2021-09-05 13:27:43.137 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 13:27:43.188 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 13:28:18.141 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 13:28:18.359 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 13:28:27.864 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 13:28:29.140 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 13:28:29.158 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 13:32:33.795 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 13:32:33.804 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 13:33:14.140 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 13:33:14.141 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 13:33:21.203 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 13:33:22.999 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 13:33:23.009 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:05:30.520 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:05:30.592 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:06:01.158 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:06:01.159 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:06:11.933 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:06:12.945 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:06:13.062 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:09:41.889 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:09:41.894 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:10:09.934 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:10:09.935 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:10:21.078 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:10:23.283 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:10:23.297 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:12:21.527 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:12:21.533 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:12:48.213 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:12:48.214 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:12:52.471 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:12:55.068 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:12:55.081 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:14:45.530 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:14:45.540 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:15:17.231 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:15:17.235 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:15:34.990 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:15:43.050 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:15:44.702 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:22:49.660 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:22:49.802 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:23:19.190 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:23:19.191 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:23:24.798 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:23:26.009 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:23:26.160 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:26:35.605 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:26:35.663 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:27:12.765 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:27:12.767 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:27:21.526 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:27:22.848 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:27:53.020 [main] Log - Is Element Displayed ?:true
+[INFO ] 2021-09-05 14:27:54.360 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:40:33.513 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:40:33.607 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:41:14.969 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:41:14.970 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:41:23.329 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:41:24.832 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:41:54.975 [main] Log - Is Element Enabled ?:true
+[INFO ] 2021-09-05 14:41:56.669 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:43:15.212 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:43:15.230 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:43:45.316 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:43:45.319 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:44:01.804 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:46:55.712 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:46:55.722 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:47:29.673 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:47:29.674 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:47:42.471 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:47:45.040 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:47:45.243 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 14:52:31.895 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:52:31.901 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 14:52:54.227 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 14:52:54.228 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 14:53:02.665 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 14:53:03.625 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 14:53:33.758 [main] Log - Is Element Enabled ?:true
+[INFO ] 2021-09-05 14:53:35.343 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 15:10:00.633 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 15:10:00.730 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 15:10:29.623 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 15:10:29.634 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 15:10:45.663 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 15:10:47.373 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 15:11:17.596 [main] Log - Is Element Enabled ?:true
+[INFO ] 2021-09-05 15:11:51.277 [main] Log - Tests are ending!
+[INFO ] 2021-09-05 15:20:11.425 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 15:20:11.439 [main] Log - Navigate tohttps://www.powerbuy.co.th/th/
+[INFO ] 2021-09-05 15:20:38.286 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 15:20:38.287 [main] Log - Tests is starting!By.xpath: //*[text()='44 - 55 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 15:20:44.303 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 15:20:46.466 [main] Log - FirstItem10%
+SHARP ทีวี UHD LED (55", 4K, Smart) รุ่น 4T-C55CJ2X
+฿16,119
+฿17,990ประหยัด ฿1,871
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 15:21:16.639 [main] Log - Is Element Enabled ?:true
+[INFO ] 2021-09-05 15:21:28.355 [main] Log - Tests is starting!
+[INFO ] 2021-09-05 15:21:28.355 [main] Log - Tests is starting!By.xpath: //*[text()='32 - 43 นิ้ว']/ancestor::div[@class="Row__Wrapper-v6uxgu-0 kSLyDU"][1]//*[@data-testid='btn-checkbox']
+[INFO ] 2021-09-05 15:21:33.559 [main] Log - Loading Screen dismissed:true
+[INFO ] 2021-09-05 15:21:35.804 [main] Log - FirstItem41%
+SAMSUNG ทีวี FHD QLED (32", Smart) รุ่น QA32LS03TBKXXT
+฿10,590
+฿17,990ประหยัด ฿7,400
+รับที่ร้านใน1ชม.
+จัดส่ง
+[INFO ] 2021-09-05 15:22:05.950 [main] Log - Is Element Enabled ?:true
+[INFO ] 2021-09-05 15:22:08.245 [main] Log - Tests are ending!
