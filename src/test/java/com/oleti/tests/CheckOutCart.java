@@ -59,7 +59,7 @@ public class CheckOutCart extends BaseTest {
 	public void filterProductWithScreenSize3243(Method method) throws InterruptedException
 	{
 		startTest(method.getName(),"Filter the Product with Screen Size 32 to 43\"");
-		filterAndAddProduct("32 - 43 นิ้ว");
+		filterAndAddProduct("132 - 43 นิ้ว");
 				
 	}
 	

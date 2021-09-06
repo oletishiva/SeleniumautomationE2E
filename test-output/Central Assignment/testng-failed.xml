@@ -14,7 +14,7 @@
           <include name="addProduct4455ScreenSizeToCart"/>
           <include name="teardown"/>
           <include name="searchProduct"/>
-          <include name="filterProductWithScreenSize3243"/>
+          <include name="filterProductWithScreenSize3243" invocation-numbers="0"/>
           <include name="addProduct3243inchitemToCart"/>
           <include name="verifyItemsInCart"/>
           <include name="methodLevelSetup"/>
